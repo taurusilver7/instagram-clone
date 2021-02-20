@@ -1,5 +1,30 @@
 # Instagram Clone
 
+> A MERN stack instagram clone hosted on firebase & real-time using pusher.
+
+## About the Application
+
+> Instagram is an American photo and video sharing social networking service owned by Facebook, created by Kevin Systrom and Mike Krieger and originally launched on iOS in October 2010.
+
+## Stock
+
+- [logo](https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png)
+- [post-image-sample](https://i.pinimg.com/originals/22/c9/0a/22c90a7c5505890b9b2a03e41a516e00.jpg)
+
+## Components
+
+- The header, Modal are covered in App.
+- Posts
+- ImageUpload
+
+## Dependencies
+
+- material-i/core
+- material-ui/icons
+- react-instagram-embed
+- react-flip-move
+- firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
